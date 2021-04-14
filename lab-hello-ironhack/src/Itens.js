@@ -5,7 +5,7 @@ import icon4 from "./images/icon4.png";
 
 function Itens() {
   return (
-    <div className="itens">
+    <div className="container itens">
       <div className="item">
         <img src={icon1} />
         <h3 className="item-title">Decorative</h3>
